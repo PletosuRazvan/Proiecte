@@ -1,0 +1,106 @@
+class ex_clasa {
+  public:
+    typ_int nr;
+    typeof(nr);
+      typ_int a;
+
+  private:
+    typ_char s[10];
+    [typ_float] medie (typ_float nr1, typ_float nr2, typ_float nr3) { 
+         return val_medie;
+    }
+};
+
+structure ex_structura {
+	typ_int nr1;
+	typ_float medie;
+}val;
+
+[typ_float] medie (typ_float nr1, typ_float nr2, typ_float nr3) {
+
+    impar(3);  
+    typ_char abb;  
+    return val_medie;
+}
+
+[typ_int] maxim (typ_int xx, typ_int yy) {
+    
+    if (x > y) do {
+      return x;
+    }
+    else  {
+      return y;
+    };;
+}
+[typ_int] minim (typ_int x, typ_int y) {
+
+    if (x < y) do {
+      return x;
+    };;
+    
+    return y;
+} 
+
+
+#ex_structura val1;
+
+
+
+typ_int vect[20];
+typ_int d <- 10;
+typ_int aa <- 10;
+typ_int b <- 10;
+
+typ_float d;
+typ_float e <- 7.5;
+typeof(e);
+typ_float constant f <- 4.5;
+typeof(f);
+typ_string text;
+typeof(text);
+ 
+
+begin_program
+
+
+val1.nr1 <- 12 ;
+
+
+typ_int constant a <- q[3];
+
+ANA <- vect[20];
+for (i <- 0, i < 10, i <- i + 1) do {
+  vect[i] <- i * 2;
+  val.medie <- vect[i];
+  b <- b + vect[i];
+};;
+
+if (x < y) do {
+      return x;
+};;
+
+typ_int c <- 10;
+typ_string ana <- " are mere";
+typeof(ana);
+eval(5 + 8 * 89 + 84 - 7 * 58 / 8);
+typ_int t <- 10;
+typ_int w <- 10;
+typ_int q <- 10;
+nu <- 5;
+
+
+MAX(3, "ANA", impar());b <-
+
+while (a == b && b < d) do {
+    a <- a / 10;
+    b <- b * 10;
+};;
+
+
+print ( "value of expression x+2 is:" ,2.4);
+
+medie ("Media celor 3 numele este: ", medie);
+
+end_program
+
+
