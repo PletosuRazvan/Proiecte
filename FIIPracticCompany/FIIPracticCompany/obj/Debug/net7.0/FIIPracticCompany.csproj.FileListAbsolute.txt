@@ -1,0 +1,12 @@
+E:\surse\FIIPracticCompany\FIIPracticCompany\bin\Debug\net7.0\FIIPracticCompany.deps.json
+E:\surse\FIIPracticCompany\FIIPracticCompany\bin\Debug\net7.0\FIIPracticCompany.dll
+E:\surse\FIIPracticCompany\FIIPracticCompany\bin\Debug\net7.0\FIIPracticCompany.pdb
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.csproj.AssemblyReference.cache
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.GeneratedMSBuildEditorConfig.editorconfig
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.AssemblyInfoInputs.cache
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.AssemblyInfo.cs
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.csproj.CoreCompileInputs.cache
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.dll
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\refint\FIIPracticCompany.dll
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\FIIPracticCompany.pdb
+E:\surse\FIIPracticCompany\FIIPracticCompany\obj\Debug\net7.0\ref\FIIPracticCompany.dll
